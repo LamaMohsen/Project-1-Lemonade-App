@@ -21,6 +21,7 @@
 
     <ImageView
         android:id="@+id/image_lemon_state"
+        tools:src="@drawable/lemon_tree"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintBottom_toBottomOf="parent"
